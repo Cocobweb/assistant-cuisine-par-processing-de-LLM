@@ -8,7 +8,7 @@ Energy (kcal) (kcal),2000,2500,kcal,Varie selon l'âge et le sexe et l'activité
 Energy (kJ) (kJ),8400,10450,kj,Équivalent énergétique en kJ (1 kcal ≈ 4.184 kJ).
 Starch (g),*,*,g,Partie des glucides totaux (pas de limite spécifique).
 Oligosaccharide (g),*,*,g,Aucune recommandation officielle.
-Total sugars (g),15,25,g,<10% des calories totales (OMS : idéalement <5%).
+Total sugars (g),20,40,g,<10% des calories totales (OMS : idéalement <5%).
 Glucose (g),*,*,g,Inclus dans "Total sugars (g)".
 Galactose (g),*,*,g,Inclus dans "Total sugars (g)".
 Fructose (g),*,*,g,Inclus dans "Total sugars (g)".
@@ -18,7 +18,7 @@ Lactose (g),*,*,g,Inclus dans "Total sugars (g)".
 Alcohol (g),0,20,g,Max 1-2 verres/jour (équivalent en alcool pur).
 NSP (g),25,38,g,Fibres alimentaires : 25g (femmes)/ 38g (hommes).
 AOAC fibre (g),25,38,g,Synonyme de NSP (méthode AOAC).
-Satd FA /100g FA (g),<10,*,g,<10% des calories totales (OMS).
+Satd FA /100g FA (g),20,25,g,<10% des calories totales (OMS).
 Satd FA /100g fd (g),*,*,g,AGS dans l'aliment : privilégier <10% des calories.
 n-6 poly /100g FA (g),5,15,g,Apport adéquat : 12-17g/j (H) / 10-12g/j (F).
 n-6 poly /100g food (g),*,*,g,Prioriser les sources saines (noix et graines).
