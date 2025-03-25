@@ -59,7 +59,8 @@ Placer ces fichiers dans le dossier `data/` :
 
 ```python
 # L'utilisateur demande une recette
-user_input = "I want to cook an apple pie for 4 people"
+> python '.\assistant cuisine.py'
+Please enter your recipe request (for example, 'I want to cook apple pie for 4 people.'): I want to cook apple pie for 4 people
 
 # Le système va :
 # 1. Extraire le nom du plat et le nombre de portions
