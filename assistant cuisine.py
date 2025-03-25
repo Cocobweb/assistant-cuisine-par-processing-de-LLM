@@ -9,7 +9,19 @@ from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage
 import warnings
 warnings.simplefilter("ignore", category=UserWarning)
+from dotenv import load_dotenv
+import os
+    
 
+# Charger les variables d'environnement
+load_dotenv()
+
+# Initialiser le modèle LLM
+llm = ChatOpenAI(
+    openai_api_key=os.getenv("OPENAI_API_KEY"),
+    openai_api_base=os.getenv("OPENAI_API_BASE"),
+    model_name="deepseek/deepseek-chat:free"
+)    
 
 # Charger le modèle d'embedding de spaCy
 nlp = spacy.load("en_core_web_md")
@@ -61,12 +73,7 @@ def find_most_similar(target_ingredient):
     # Retourne l'ingrédient avec la plus grande similarité
     return max(similarities, key=similarities.get, default=target_ingredient)
 
-# Initialiser le modèle LLM
-llm = ChatOpenAI(
-    openai_api_key="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",
-    openai_api_base="https://openrouter.ai/api/v1",
-    model_name="deepseek/deepseek-chat:free"
-)
+
 
 def extract_info_from_user_input(user_input):
     prompt = (
