@@ -1,0 +1,41 @@
+Nutrient,Min Daily (g/mg),Max Daily (g/mg),Unit,Comments
+Water (g),2000,3000,g,Besoin hydrique quotidien moyen (2-3 L/jour).
+Total nitrogen (g),*,*,g,Calculé via les protéines (1g d’azote ≈ 6.25g de protéines).
+Protein (g),50,175,g,0.8-1.6g/kg de poids corporel (selon activité).
+Fat (g),44,78,g,20-35% des calories totales (pour 2000 kcal/jour).
+Carbohydrate (g),225,325,g,45-65% des calories totales (pour 2000 kcal/jour).
+Energy (kcal) (kcal),2000,2500,kcal,Varie selon l'âge et le sexe et l'activité.
+Energy (kJ) (kJ),8400,10450,kj,Équivalent énergétique en kJ (1 kcal ≈ 4.184 kJ).
+Starch (g),*,*,g,Partie des glucides totaux (pas de limite spécifique).
+Oligosaccharide (g),*,*,g,Aucune recommandation officielle.
+Total sugars (g),15,25,g,<10% des calories totales (OMS : idéalement <5%).
+Glucose (g),*,*,g,Inclus dans "Total sugars (g)".
+Galactose (g),*,*,g,Inclus dans "Total sugars (g)".
+Fructose (g),*,*,g,Inclus dans "Total sugars (g)".
+Sucrose (g),*,*,g,Inclus dans "Total sugars (g)".
+Maltose (g),*,*,g,Inclus dans "Total sugars (g)".
+Lactose (g),*,*,g,Inclus dans "Total sugars (g)".
+Alcohol (g),0,20,g,Max 1-2 verres/jour (équivalent en alcool pur).
+NSP (g),25,38,g,Fibres alimentaires : 25g (femmes)/ 38g (hommes).
+AOAC fibre (g),25,38,g,Synonyme de NSP (méthode AOAC).
+Satd FA /100g FA (g),<10,*,g,<10% des calories totales (OMS).
+Satd FA /100g fd (g),*,*,g,AGS dans l'aliment : privilégier <10% des calories.
+n-6 poly /100g FA (g),5,15,g,Apport adéquat : 12-17g/j (H) / 10-12g/j (F).
+n-6 poly /100g food (g),*,*,g,Prioriser les sources saines (noix et graines).
+n-3 poly /100g FA (g),1.1,1.6,g,ALA : 1.1-1.6g/j (selon sexe).
+n-3 poly /100g food (g),*,*,g,Poissons gras et graines de lin et etc.
+cis-Mono FA /100g FA (g),*,*,g,Acides gras monoinsaturés (ex. huile d'olive).
+cis-Mono FA /100g Food (g),*,*,g,Prioriser les sources végétales.
+Mono FA/ 100g FA (g),*,*,g,Inclus dans "cis-Mono FA /100g FA (g)".
+Mono FA /100g food (g),*,*,g,Partie des lipides totaux.
+cis-Polyu FA /100g FA (g),*,*,g,Acides gras polyinsaturés (ex. oméga-3/6).
+cis-Poly FA /100g Food (g),*,*,g,Prioriser les sources équilibrées.
+Poly FA /100g FA (g),*,*,g,Inclus dans les recommandations n-6/n-3.
+Poly FA /100g food (g),*,*,g,Partie des lipides totaux.
+Sat FA excl Br /100g FA (g),*,*,g,AGS hors chaînes ramifiées (peu étudié).
+Sat FA excl Br /100g food (g),*,*,g,Recommandation similaire aux AGS totaux.
+Branched chain FA /100g FA (g),*,*,g,Ex. acides gras laitiers (limiter si LDL élevé).
+Branched chain FA /100g food (g),*,*,g,Prudence en cas de risques cardiovasculaires.
+Trans FAs /100g FA (g),0,<1,g,Idéalement 0g. Max 1% des calories.
+Trans FAs /100g food (g),0,<1,g,Éviter les aliments transformés.
+Cholesterol (mg),0,300,mg,Max 300mg/j (idéal <200mg si risque cardiaque).
