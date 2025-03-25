@@ -51,7 +51,7 @@ Placer ces fichiers dans le dossier `data/` :
 
 ```python
 # L'utilisateur demande une recette
-user_input = "Je veux faire un gratin dauphinois pour 4 personnes"
+user_input = "I want to cook an apple pie for 4 people"
 
 # Le système va :
 # 1. Extraire le nom du plat et le nombre de portions
