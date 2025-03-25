@@ -5,6 +5,14 @@ assistant cuisine par processing de LLM
 
 Ce module offre une solution complète pour l'analyse de recettes, la correspondance d'ingrédients et l'évaluation nutritionnelle en utilisant des technologies NLP et IA.
 
+### Sources de Données
+
+- **Base de données nutritionnelles** :  
+  Les données nutritionnelles proviennent du [UK Composition of Foods Integrated Dataset (CoFID)](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid), publié par le gouvernement britannique.
+
+- **Recommandations nutritionnelles** :  
+  Les valeurs de référence utilisées sont fournies à titre indicatif uniquement. **Elles ne constituent pas une autorité médicale ou nutritionnelle** et doivent être interprétées avec discernement.
+
 ### Fonctionnalités
 
 - **Correspondance d'ingrédients** :
@@ -45,7 +53,7 @@ python-dotenv
 Placer ces fichiers dans le dossier `data/` :
 - `food_names.txt` - Base de données d'ingrédients
 - `traited_data_composition_aliment.csv` - Données nutritionnelles
-- `recommandation_alimentation.csv` - Recommandations alimentaires
+- `recommandation_alimentation.csv` - Recommandations alimentaires 
 
 ### Exemple d'Utilisation
 
